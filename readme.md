@@ -10,6 +10,8 @@ In this project, I, Berk Gözek, will be documenting my progress of creating a T
 	<li>A Regular SDHX Port</li>
 	<li>A Mini SDHX Port</li>
 	<li>A CFExpress Type A Port</li>
+	<li>An Ethernet Port 2.5GbE</li> 
+	<li>Power Delivery (up to 100W)</li>
 </ul>
 
 <p>
